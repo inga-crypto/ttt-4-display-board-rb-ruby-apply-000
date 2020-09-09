@@ -14,6 +14,6 @@ def display_board(board)
   puts " #{board[6]} | #{board[7]} | #{board[8]} "
 end
  
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-board = ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
-board = ["X", "X", "X", "X", "X", "X", "X", "X", "X"]
+#board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+#board = ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
+#board = ["X", "X", "X", "X", "X", "X", "X", "X", "X"]
